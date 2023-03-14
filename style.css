@@ -1,0 +1,29 @@
+
+.thead_style{
+  background-color:grey;
+  color: white;
+  text-align: center;
+  border: black
+
+}
+
+.tbody_style1{
+  background-color: lightgrey;
+  
+  
+}
+th, td{
+  border:1px solid black;
+}
+.tbody_style2{
+  background-color:lightgrey;
+  border: 1px solid black
+}
+
+table{
+  border:1px solid black;
+  
+} 
+
+
+
